@@ -1,0 +1,24 @@
+name: Teste de áudio (YouTube x Deezer)
+
+on:
+  push:
+    paths: ["testes/**", ".github/workflows/teste-audio.yml"]
+  workflow_dispatch:
+
+jobs:
+  teste:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Instalar dependências
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q yt-dlp numpy
+          pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -q git+https://github.com/awsaf49/sonics.git
+      - name: Rodar teste
+        run: python testes/teste_audio.py
