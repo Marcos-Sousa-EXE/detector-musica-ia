@@ -97,7 +97,7 @@ def pontuar(d):
         add(0, "Análise do áudio: " + d.get("audio_motivo", "sem prévia na Deezer nem na Apple"))
     else:
         txt = f"Áudio (modelo SONICS, prévia da {d['fonte_previa']}): {a}% de chance de IA"
-        add(25 if a >= 45 else 10 if a >= 30 else 0 if a >= 20 else -10, txt)
+        add(25 if a >= 45 else 5 if a >= 30 else 0 if a >= 20 else -10, txt)
 
     # 5. rastro na web
     r = d.get("rastro")
@@ -105,7 +105,8 @@ def pontuar(d):
         novo = h and h.get("estreia") and anos_desde(h["estreia"]) < 1.5
         add(-5 if novo else -15, "Rastro na web: " + ", ".join(r) + (" (pode ser outro artista com o mesmo nome)" if novo else ""))
     else:
-        add(5, "Rastro na web: nada encontrado (letras, cifras, Wikipédia)")
+        novo = h and h.get("estreia") and anos_desde(h["estreia"]) < 1.5
+        add(5 if novo else 0, "Rastro na web: nada encontrado (letras, cifras, Wikipédia)")
     if d.get("musicbrainz"):
         add(-5, "Cadastro no MusicBrainz")
     else:

@@ -14,6 +14,8 @@ def get(url, timeout=25, tentativas=3):
         except urllib.error.HTTPError as e:
             if e.code in (404, 410):
                 return e.code, ""
+            if e.code == 503:
+                time.sleep(3)
             erro = e
         except Exception as e:  # noqa: BLE001
             erro = e

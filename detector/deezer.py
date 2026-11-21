@@ -1,3 +1,4 @@
+import re
 """Deezer: encontrar a faixa, histórico do artista e o aviso de IA da página do álbum."""
 from datetime import datetime, timezone
 from .util import get_json, q, mesmo_artista
@@ -7,7 +8,8 @@ API = "https://api.deezer.com"
 
 def achar_faixa(artista, titulo):
     """Procura a faixa e só aceita se o artista bater com o canal/título do YouTube."""
-    tentativas = [f'artist:"{artista}" track:"{titulo}"', f"{artista} {titulo}", titulo]
+    partes = [p.strip() for p in re.split(r"[|\-–]", titulo) if len(p.strip()) > 3]
+    tentativas = [f'artist:"{artista}" track:"{titulo}"', f"{artista} {titulo}"] + [f"{artista} {p}" for p in partes] + [titulo]
     for consulta in tentativas:
         if not consulta.strip():
             continue

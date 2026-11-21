@@ -1,3 +1,4 @@
+import re
 """Apple Music (API pública do iTunes): prévia de 30 s e histórico do artista quando não há Deezer."""
 from datetime import datetime, timezone
 from .util import get_json, q, mesmo_artista
@@ -6,7 +7,9 @@ API = "https://itunes.apple.com"
 
 
 def achar_faixa(artista, titulo):
-    for termo in (f"{artista} {titulo}", titulo):
+    partes = [p.strip() for p in re.split(r"[|\-–]", titulo) if len(p.strip()) > 3]
+    termos = [f"{artista} {titulo}"] + [f"{artista} {p}" for p in partes] + [titulo]
+    for termo in termos:
         for t in get_json(f"{API}/search?country=BR&entity=song&limit=10&term={q(termo)}").get("results", []):
             if mesmo_artista(t.get("artistName", ""), artista) or mesmo_artista(t.get("artistName", ""), titulo.split(" - ")[0]):
                 return t
