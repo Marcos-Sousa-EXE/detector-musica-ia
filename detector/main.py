@@ -1,7 +1,7 @@
 """Roda a investigação completa em cada música da playlist e gera o relatório."""
 import argparse, json, os, traceback
 from datetime import datetime, timezone, timedelta
-from . import youtube, deezer, apple, audio, web
+from . import youtube, deezer, apple, web
 from .pontuacao import pontuar
 
 PLAYLIST = os.environ.get("PLAYLIST_URL", "https://music.youtube.com/playlist?list=PLTPAJGrfELdk")
@@ -60,6 +60,7 @@ def investigar(vid, titulo, canal, aviso_ia):
     etapa("Apple", _apple)
 
     def _audio():
+        from . import audio
         if d.get("previa"):
             d["audio"] = audio.chance_ia(d["previa"])
     etapa("Áudio", _audio)
