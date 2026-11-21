@@ -1,0 +1,810 @@
+[
+ {
+  "video": "hnSB2eOcXc4",
+  "titulo": "Vó Maria Conga - Café no Silêncio (Pretos Velhos)",
+  "canal": "Terra Luz",
+  "artista": "Terra Luz",
+  "canal_topic": false,
+  "historico": {
+   "fas": 257,
+   "lancamentos": 63,
+   "estreia": "2025-07-23",
+   "ult90": 7,
+   "albuns_recentes": [
+    1139822121,
+    1119088862,
+    1112450662
+   ]
+  },
+  "fonte_historico": "Deezer",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/5/0/a75cc96ae06784e6ab6e84875e43b08e.mp3?hdnea=exp=1795281111~acl=/api/1/1/a/7/5/0/a75cc96ae06784e6ab6e84875e43b08e.mp3*~data=user_id=0,application_id=42~hmac=e4b76f16e6277906826ea04eddc5e4ff9ee8ad796133a04a208c3ec0f9bcfba7",
+  "fonte_previa": "Deezer",
+  "aviso": "faixa",
+  "audio": 58,
+  "rastro": [],
+  "musicbrainz": false,
+  "nota": 100,
+  "veredito": "⚠️ Provável IA",
+  "pistas": [
+   [
+    "➖",
+    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+   ],
+   [
+    "🚩",
+    "Deezer marca o álbum desta música como 'Conteúdo gerado por IA'"
+   ],
+   [
+    "🚩",
+    "Artista estreou em 2025-07 (63 lançamentos, 257 fãs, Deezer) — artista muito novo"
+   ],
+   [
+    "🚩",
+    "Média de 3.9 lançamentos por mês — ritmo acima do humano"
+   ],
+   [
+    "🚩",
+    "Áudio (modelo SONICS, prévia da Deezer): 58% de chance de IA"
+   ],
+   [
+    "🚩",
+    "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
+   ],
+   [
+    "➖",
+    "Sem cadastro no MusicBrainz"
+   ]
+  ],
+  "erros": []
+ },
+ {
+  "video": "YnjnTFXSwoE",
+  "titulo": "Espírito da Floresta",
+  "canal": "paua - Topic",
+  "artista": "PAUA",
+  "canal_topic": true,
+  "historico": {
+   "fas": 1428,
+   "lancamentos": 18,
+   "estreia": "2013-08-08",
+   "ult90": 1,
+   "albuns_recentes": [
+    1126061062,
+    774304191,
+    687072371
+   ]
+  },
+  "fonte_historico": "Deezer",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/6/0/f7686cf466cc05d86c095727a2f45c04.mp3?hdnea=exp=1795281135~acl=/api/1/1/f/7/6/0/f7686cf466cc05d86c095727a2f45c04.mp3*~data=user_id=0,application_id=42~hmac=6ae33b5c0bceb428035365143968e827e7a9381ec02b526d6ba3a40767389a9d",
+  "fonte_previa": "Deezer",
+  "aviso": false,
+  "audio": 20,
+  "rastro": [],
+  "musicbrainz": true,
+  "nota": 25,
+  "veredito": "✅ Provável humana",
+  "pistas": [
+   [
+    "➖",
+    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+   ],
+   [
+    "✅",
+    "Deezer não mostra aviso de IA"
+   ],
+   [
+    "✅",
+    "Artista estreou em 2013-08 (18 lançamentos, 1428 fãs, Deezer) — na ativa há anos"
+   ],
+   [
+    "➖",
+    "Ritmo de lançamentos normal (1 nos últimos 90 dias)"
+   ],
+   [
+    "➖",
+    "Áudio (modelo SONICS, prévia da Deezer): 20% de chance de IA"
+   ],
+   [
+    "🚩",
+    "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
+   ],
+   [
+    "✅",
+    "Cadastro no MusicBrainz"
+   ]
+  ],
+  "erros": []
+ },
+ {
+  "video": "xkDlGPyemqU",
+  "titulo": "Oração, Ao Meu Ori",
+  "canal": "Luciano Garzin - Topic",
+  "artista": "Luciano Garzin",
+  "canal_topic": true,
+  "historico": {
+   "fas": 74,
+   "lancamentos": 84,
+   "estreia": "2025-07-13",
+   "ult90": 7,
+   "albuns_recentes": [
+    1128973021,
+    1122358142,
+    1102846322
+   ]
+  },
+  "fonte_historico": "Deezer",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/8/0/0281062f1527dc280eb2d0f0b7685a1c.mp3?hdnea=exp=1795281202~acl=/api/1/1/0/2/8/0/0281062f1527dc280eb2d0f0b7685a1c.mp3*~data=user_id=0,application_id=42~hmac=93c453f033aac9b8f7ebcffd83d6f62ddbcde573c1c4a261a41de1789fb41b03",
+  "fonte_previa": "Deezer",
+  "aviso": "faixa",
+  "audio": 37,
+  "rastro": [],
+  "musicbrainz": false,
+  "nota": 100,
+  "veredito": "⚠️ Provável IA",
+  "pistas": [
+   [
+    "➖",
+    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+   ],
+   [
+    "🚩",
+    "Deezer marca o álbum desta música como 'Conteúdo gerado por IA'"
+   ],
+   [
+    "🚩",
+    "Artista estreou em 2025-07 (84 lançamentos, 74 fãs, Deezer) — artista muito novo"
+   ],
+   [
+    "🚩",
+    "Média de 5.2 lançamentos por mês — ritmo acima do humano"
+   ],
+   [
+    "🚩",
+    "Áudio (modelo SONICS, prévia da Deezer): 37% de chance de IA"
+   ],
+   [
+    "🚩",
+    "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
+   ],
+   [
+    "➖",
+    "Sem cadastro no MusicBrainz"
+   ]
+  ],
+  "erros": []
+ },
+ {
+  "video": "R3soyFNuJBc",
+  "titulo": "Luz de Tupã",
+  "canal": "Runuã Rezo - Topic",
+  "artista": "Runuã Rezo",
+  "canal_topic": true,
+  "historico": {
+   "fas": 1370,
+   "lancamentos": 17,
+   "estreia": "2022-10-28",
+   "ult90": 1,
+   "albuns_recentes": [
+    1067434491,
+    1028396702,
+    1028454242
+   ]
+  },
+  "fonte_historico": "Deezer",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/e/0/70e37d731a2f86e651799e3f4ab6277f.mp3?hdnea=exp=1795281218~acl=/api/1/1/7/0/e/0/70e37d731a2f86e651799e3f4ab6277f.mp3*~data=user_id=0,application_id=42~hmac=df1066487f6d17ff3bd2bac35ead16cfa34b56aa4594544a4f6ba8e559923599",
+  "fonte_previa": "Deezer",
+  "aviso": false,
+  "audio": 7,
+  "rastro": [],
+  "musicbrainz": false,
+  "nota": 20,
+  "veredito": "✅ Provável humana",
+  "pistas": [
+   [
+    "➖",
+    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+   ],
+   [
+    "✅",
+    "Deezer não mostra aviso de IA"
+   ],
+   [
+    "✅",
+    "Artista estreou em 2022-10 (17 lançamentos, 1370 fãs, Deezer) — na ativa há anos"
+   ],
+   [
+    "➖",
+    "Ritmo de lançamentos normal (1 nos últimos 90 dias)"
+   ],
+   [
+    "✅",
+    "Áudio (modelo SONICS, prévia da Deezer): 7% de chance de IA"
+   ],
+   [
+    "🚩",
+    "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
+   ],
+   [
+    "➖",
+    "Sem cadastro no MusicBrainz"
+   ]
+  ],
+  "erros": []
+ },
+ {
+  "video": "c6FmyVQhzuo",
+  "titulo": "O Café Benzido",
+  "canal": "Canto Manso - Topic",
+  "artista": "Canto Manso",
+  "canal_topic": true,
+  "historico": {
+   "fas": 55,
+   "lancamentos": 109,
+   "estreia": "2026-01-15",
+   "ult90": 103,
+   "albuns_recentes": [
+    1141115071,
+    1141149791,
+    1141149811
+   ]
+  },
+  "fonte_historico": "Deezer",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/f/0/1efbe96bbb51016b54a7e490fd134199.mp3?hdnea=exp=1795281289~acl=/api/1/1/1/e/f/0/1efbe96bbb51016b54a7e490fd134199.mp3*~data=user_id=0,application_id=42~hmac=401fab64e198cd6733aaf92d4a449ef5e5a62c899554b7240d40069e2e27ed4f",
+  "fonte_previa": "Deezer",
+  "aviso": "faixa",
+  "audio": 31,
+  "rastro": [],
+  "musicbrainz": false,
+  "nota": 100,
+  "veredito": "⚠️ Provável IA",
+  "pistas": [
+   [
+    "➖",
+    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+   ],
+   [
+    "🚩",
+    "Deezer marca o álbum desta música como 'Conteúdo gerado por IA'"
+   ],
+   [
+    "🚩",
+    "Artista estreou em 2026-01 (109 lançamentos, 55 fãs, Deezer) — artista muito novo"
+   ],
+   [
+    "🚩",
+    "103 lançamentos nos últimos 90 dias — ritmo de robô"
+   ],
+   [
+    "🚩",
+    "Áudio (modelo SONICS, prévia da Deezer): 31% de chance de IA"
+   ],
+   [
+    "🚩",
+    "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
+   ],
+   [
+    "➖",
+    "Sem cadastro no MusicBrainz"
+   ]
+  ],
+  "erros": []
+ },
+ {
+  "video": "SkuE817OraE",
+  "titulo": "Bênção de Preto Velho",
+  "canal": "Raizes de Angola - Topic",
+  "artista": "Raizes de Angola",
+  "canal_topic": true,
+  "historico": {
+   "fas": 43,
+   "lancamentos": 6,
+   "estreia": "2026-04-17",
+   "ult90": 1,
+   "albuns_recentes": [
+    1071220932,
+    1033919522,
+    1008252731
+   ]
+  },
+  "fonte_historico": "Deezer",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/7/0/d6708344a746c2906d605d1ce7c64d0a.mp3?hdnea=exp=1795281306~acl=/api/1/1/d/6/7/0/d6708344a746c2906d605d1ce7c64d0a.mp3*~data=user_id=0,application_id=42~hmac=c4456d74d5fd3dcb3d39218ebf38848f4d578111e40cc7d8c02bfd95484977bb",
+  "fonte_previa": "Deezer",
+  "aviso": "faixa",
+  "audio": 64,
+  "rastro": [],
+  "nota": 100,
+  "veredito": "⚠️ Provável IA",
+  "pistas": [
+   [
+    "➖",
+    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+   ],
+   [
+    "🚩",
+    "Deezer marca o álbum desta música como 'Conteúdo gerado por IA'"
+   ],
+   [
+    "🚩",
+    "Artista estreou em 2026-04 (6 lançamentos, 43 fãs, Deezer) — artista muito novo"
+   ],
+   [
+    "➖",
+    "Ritmo de lançamentos normal (1 nos últimos 90 dias)"
+   ],
+   [
+    "🚩",
+    "Áudio (modelo SONICS, prévia da Deezer): 64% de chance de IA"
+   ],
+   [
+    "🚩",
+    "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
+   ],
+   [
+    "➖",
+    "Sem cadastro no MusicBrainz"
+   ]
+  ],
+  "erros": [
+   "MusicBrainz: erro (HTTP Error 503: Service Temporarily Unavailable)"
+  ]
+ },
+ {
+  "video": "7x6tgxzI_AM",
+  "titulo": "Aos Meus Avós",
+  "canal": "Tainá Santos",
+  "artista": "Tainá Santos",
+  "canal_topic": false,
+  "historico": {
+   "fas": 2852,
+   "lancamentos": 8,
+   "estreia": "2021-12-31",
+   "ult90": 0,
+   "albuns_recentes": [
+    1033682122,
+    518081792,
+    518067122
+   ]
+  },
+  "fonte_historico": "Deezer",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/8/0/3884d301748f554f31be38ecf2e50747.mp3?hdnea=exp=1795281331~acl=/api/1/1/3/8/8/0/3884d301748f554f31be38ecf2e50747.mp3*~data=user_id=0,application_id=42~hmac=6bd474c40daaef06a4c6b371bae5a6958e2123c7b3f11a535be44f3ec7329dce",
+  "fonte_previa": "Deezer",
+  "aviso": false,
+  "audio": 4,
+  "rastro": [],
+  "nota": 20,
+  "veredito": "✅ Provável humana",
+  "pistas": [
+   [
+    "➖",
+    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+   ],
+   [
+    "✅",
+    "Deezer não mostra aviso de IA"
+   ],
+   [
+    "✅",
+    "Artista estreou em 2021-12 (8 lançamentos, 2852 fãs, Deezer) — na ativa há anos"
+   ],
+   [
+    "➖",
+    "Ritmo de lançamentos normal (0 nos últimos 90 dias)"
+   ],
+   [
+    "✅",
+    "Áudio (modelo SONICS, prévia da Deezer): 4% de chance de IA"
+   ],
+   [
+    "🚩",
+    "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
+   ],
+   [
+    "➖",
+    "Sem cadastro no MusicBrainz"
+   ]
+  ],
+  "erros": [
+   "MusicBrainz: erro (HTTP Error 503: Service Temporarily Unavailable)"
+  ]
+ },
+ {
+  "video": "NY_ayvM3Hck",
+  "titulo": "Jardineiro do Infinito",
+  "canal": "Runuã Rezo - Topic",
+  "artista": "Runuã Rezo",
+  "canal_topic": true,
+  "historico": {
+   "fas": 1370,
+   "lancamentos": 17,
+   "estreia": "2022-10-28",
+   "ult90": 1,
+   "albuns_recentes": [
+    1067434491,
+    1028396702,
+    1028454242
+   ]
+  },
+  "fonte_historico": "Deezer",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/1/0/501cb51b91262c1b0edb6998a3425e36.mp3?hdnea=exp=1795281406~acl=/api/1/1/5/0/1/0/501cb51b91262c1b0edb6998a3425e36.mp3*~data=user_id=0,application_id=42~hmac=c93d4e855955c94984a760c8f5683fed54add637af186a6ad5edd7643d874b10",
+  "fonte_previa": "Deezer",
+  "aviso": false,
+  "audio": 35,
+  "rastro": [],
+  "musicbrainz": false,
+  "nota": 40,
+  "veredito": "❓ Incerta",
+  "pistas": [
+   [
+    "➖",
+    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+   ],
+   [
+    "✅",
+    "Deezer não mostra aviso de IA"
+   ],
+   [
+    "✅",
+    "Artista estreou em 2022-10 (17 lançamentos, 1370 fãs, Deezer) — na ativa há anos"
+   ],
+   [
+    "➖",
+    "Ritmo de lançamentos normal (1 nos últimos 90 dias)"
+   ],
+   [
+    "🚩",
+    "Áudio (modelo SONICS, prévia da Deezer): 35% de chance de IA"
+   ],
+   [
+    "🚩",
+    "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
+   ],
+   [
+    "➖",
+    "Sem cadastro no MusicBrainz"
+   ]
+  ],
+  "erros": []
+ },
+ {
+  "video": "GQ2xwzh1ViI",
+  "titulo": "O CHAMADO DO CABOCLO para ACALMAR A ALMA & TRAZER PAZ IMEDIATA | Uma Limpeza Espiritual Profunda",
+  "canal": "Música aos Orixás",
+  "artista": "Música aos Orixás",
+  "canal_topic": false,
+  "rastro": [],
+  "musicbrainz": false,
+  "nota": 55,
+  "veredito": "🟡 Suspeita",
+  "pistas": [
+   [
+    "➖",
+    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+   ],
+   [
+    "➖",
+    "Aviso de IA da Deezer: música não está na Deezer"
+   ],
+   [
+    "➖",
+    "Histórico do artista: não encontrado na Deezer nem na Apple"
+   ],
+   [
+    "➖",
+    "Análise do áudio: sem prévia na Deezer nem na Apple"
+   ],
+   [
+    "🚩",
+    "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
+   ],
+   [
+    "➖",
+    "Sem cadastro no MusicBrainz"
+   ]
+  ],
+  "erros": []
+ },
+ {
+  "video": "7wsHCqJ6wPk",
+  "titulo": "Reza Da Mata - Álbum Ecos Da Mata Viva",
+  "canal": "Vozes de Aruanda",
+  "artista": "Vozes de Aruanda",
+  "canal_topic": false,
+  "previa": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/00/99/920099bb-6a94-cd97-de22-f341824ef82c/mzaf_9286080381100540415.plus.aac.p.m4a",
+  "fonte_previa": "Apple",
+  "historico": {
+   "fas": null,
+   "lancamentos": 33,
+   "estreia": "2025-08-23",
+   "ult90": 5,
+   "albuns_recentes": []
+  },
+  "fonte_historico": "Apple",
+  "audio": 47,
+  "rastro": [],
+  "musicbrainz": false,
+  "nota": 95,
+  "veredito": "⚠️ Provável IA",
+  "pistas": [
+   [
+    "➖",
+    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+   ],
+   [
+    "➖",
+    "Aviso de IA da Deezer: música não está na Deezer"
+   ],
+   [
+    "🚩",
+    "Artista estreou em 2025-08 (33 lançamentos, Apple) — artista muito novo"
+   ],
+   [
+    "➖",
+    "Ritmo de lançamentos normal (5 nos últimos 90 dias)"
+   ],
+   [
+    "🚩",
+    "Áudio (modelo SONICS, prévia da Apple): 47% de chance de IA"
+   ],
+   [
+    "🚩",
+    "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
+   ],
+   [
+    "➖",
+    "Sem cadastro no MusicBrainz"
+   ]
+  ],
+  "erros": []
+ },
+ {
+  "video": "epAAWVsq_Ns",
+  "titulo": "Takan Cavalo Branco - Lição da Borboleta",
+  "canal": "Takan Cavalo Branco",
+  "artista": "Takan Cavalo Branco",
+  "canal_topic": false,
+  "rastro": [],
+  "musicbrainz": false,
+  "nota": 55,
+  "veredito": "🟡 Suspeita",
+  "pistas": [
+   [
+    "➖",
+    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+   ],
+   [
+    "➖",
+    "Aviso de IA da Deezer: música não está na Deezer"
+   ],
+   [
+    "➖",
+    "Histórico do artista: não encontrado na Deezer nem na Apple"
+   ],
+   [
+    "➖",
+    "Análise do áudio: sem prévia na Deezer nem na Apple"
+   ],
+   [
+    "🚩",
+    "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
+   ],
+   [
+    "➖",
+    "Sem cadastro no MusicBrainz"
+   ]
+  ],
+  "erros": []
+ },
+ {
+  "video": "_76lUmnSACY",
+  "titulo": "PONTO DO C.PENA VERDE",
+  "canal": "R. PINHEIRO",
+  "artista": "R. PINHEIRO",
+  "canal_topic": false,
+  "rastro": [],
+  "musicbrainz": false,
+  "nota": 55,
+  "veredito": "🟡 Suspeita",
+  "pistas": [
+   [
+    "➖",
+    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+   ],
+   [
+    "➖",
+    "Aviso de IA da Deezer: música não está na Deezer"
+   ],
+   [
+    "➖",
+    "Histórico do artista: não encontrado na Deezer nem na Apple"
+   ],
+   [
+    "➖",
+    "Análise do áudio: sem prévia na Deezer nem na Apple"
+   ],
+   [
+    "🚩",
+    "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
+   ],
+   [
+    "➖",
+    "Sem cadastro no MusicBrainz"
+   ]
+  ],
+  "erros": []
+ },
+ {
+  "video": "I1ESCFfWBGI",
+  "titulo": "Invocação de Exu e Pombagira",
+  "canal": "A voz das Sombras",
+  "artista": "A voz das Sombras",
+  "canal_topic": false,
+  "historico": {
+   "fas": 319,
+   "lancamentos": 15,
+   "estreia": "2026-01-26",
+   "ult90": 4,
+   "albuns_recentes": [
+    1142862091,
+    1115043442,
+    1102924962
+   ]
+  },
+  "fonte_historico": "Deezer",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/f/0/abf159d15f2cbc80f58b080585c731f5.mp3?hdnea=exp=1795281531~acl=/api/1/1/a/b/f/0/abf159d15f2cbc80f58b080585c731f5.mp3*~data=user_id=0,application_id=42~hmac=febb03e9fab5d2457b33dafc7f8d9cce706865ccde8b34680d01f99a517ab659",
+  "fonte_previa": "Deezer",
+  "aviso": "faixa",
+  "audio": 94,
+  "rastro": [],
+  "musicbrainz": true,
+  "nota": 100,
+  "veredito": "⚠️ Provável IA",
+  "pistas": [
+   [
+    "➖",
+    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+   ],
+   [
+    "🚩",
+    "Deezer marca o álbum desta música como 'Conteúdo gerado por IA'"
+   ],
+   [
+    "🚩",
+    "Artista estreou em 2026-01 (15 lançamentos, 319 fãs, Deezer) — artista muito novo"
+   ],
+   [
+    "➖",
+    "Ritmo de lançamentos normal (4 nos últimos 90 dias)"
+   ],
+   [
+    "🚩",
+    "Áudio (modelo SONICS, prévia da Deezer): 94% de chance de IA"
+   ],
+   [
+    "🚩",
+    "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
+   ],
+   [
+    "✅",
+    "Cadastro no MusicBrainz"
+   ]
+  ],
+  "erros": []
+ },
+ {
+  "video": "qIFsIPsDSAw",
+  "titulo": "Tira Eu da Senzala Sinhá",
+  "canal": "Mestre Irmão - Topic",
+  "artista": "Mestre Irmão",
+  "canal_topic": true,
+  "historico": {
+   "fas": 52,
+   "lancamentos": 10,
+   "estreia": "2023-10-29",
+   "ult90": 0,
+   "albuns_recentes": [
+    939922091,
+    931549831,
+    931549121
+   ]
+  },
+  "fonte_historico": "Deezer",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/7/0/7b7360be2a519fb09aec8e0552c295cb.mp3?hdnea=exp=1795281547~acl=/api/1/1/7/b/7/0/7b7360be2a519fb09aec8e0552c295cb.mp3*~data=user_id=0,application_id=42~hmac=ae68169b90bc5dbe37a8014ee531f96af1ab76d445b47de6b041b5b2bf087d08",
+  "fonte_previa": "Deezer",
+  "aviso": false,
+  "audio": 5,
+  "rastro": [],
+  "nota": 20,
+  "veredito": "✅ Provável humana",
+  "pistas": [
+   [
+    "➖",
+    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+   ],
+   [
+    "✅",
+    "Deezer não mostra aviso de IA"
+   ],
+   [
+    "✅",
+    "Artista estreou em 2023-10 (10 lançamentos, 52 fãs, Deezer) — na ativa há anos"
+   ],
+   [
+    "➖",
+    "Ritmo de lançamentos normal (0 nos últimos 90 dias)"
+   ],
+   [
+    "✅",
+    "Áudio (modelo SONICS, prévia da Deezer): 5% de chance de IA"
+   ],
+   [
+    "🚩",
+    "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
+   ],
+   [
+    "➖",
+    "Sem cadastro no MusicBrainz"
+   ]
+  ],
+  "erros": [
+   "MusicBrainz: erro (HTTP Error 503: Service Temporarily Unavailable)"
+  ]
+ },
+ {
+  "video": "eIxVmLP5C14",
+  "titulo": "Quantas Estrelas Têm no Céu",
+  "canal": "Sou do Axé - Topic",
+  "artista": "Sou do Axé",
+  "canal_topic": true,
+  "historico": {
+   "fas": 6,
+   "lancamentos": 10,
+   "estreia": "2025-12-16",
+   "ult90": 2,
+   "albuns_recentes": [
+    1122357322,
+    1108753442,
+    937022821
+   ]
+  },
+  "fonte_historico": "Deezer",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/4/0/7a4a7990fba0bef8d7ec0c89eaf2ce32.mp3?hdnea=exp=1795281622~acl=/api/1/1/7/a/4/0/7a4a7990fba0bef8d7ec0c89eaf2ce32.mp3*~data=user_id=0,application_id=42~hmac=94b4ada9df2f691a8f3b36f334691ed1047404f2317fac1f501d77ba0f76d0f1",
+  "fonte_previa": "Deezer",
+  "aviso": "faixa",
+  "audio": 31,
+  "rastro": [],
+  "musicbrainz": false,
+  "nota": 100,
+  "veredito": "⚠️ Provável IA",
+  "pistas": [
+   [
+    "➖",
+    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+   ],
+   [
+    "🚩",
+    "Deezer marca o álbum desta música como 'Conteúdo gerado por IA'"
+   ],
+   [
+    "🚩",
+    "Artista estreou em 2025-12 (10 lançamentos, 6 fãs, Deezer) — artista muito novo"
+   ],
+   [
+    "➖",
+    "Ritmo de lançamentos normal (2 nos últimos 90 dias)"
+   ],
+   [
+    "🚩",
+    "Áudio (modelo SONICS, prévia da Deezer): 31% de chance de IA"
+   ],
+   [
+    "🚩",
+    "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
+   ],
+   [
+    "➖",
+    "Sem cadastro no MusicBrainz"
+   ]
+  ],
+  "erros": []
+ }
+]
