@@ -1,0 +1,4 @@
+yt-dlp
+numpy
+playwright
+git+https://github.com/awsaf49/sonics.git

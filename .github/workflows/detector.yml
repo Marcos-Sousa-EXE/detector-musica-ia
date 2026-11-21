@@ -1,0 +1,50 @@
+name: Detector de IA
+
+on:
+  workflow_dispatch:
+    inputs:
+      todas:
+        description: "Investigar todas as músicas (não só as novas)"
+        type: boolean
+        default: true
+  push:
+    branches: [main]
+    paths: ["detector/**", ".github/workflows/detector.yml", "requirements.txt"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: detector
+  cancel-in-progress: false
+
+jobs:
+  detectar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Instalar dependências
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+          pip install -q -r requirements.txt
+          python -m playwright install --with-deps chromium
+      - name: Investigar músicas
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+        run: |
+          if [ "${{ github.event_name }}" = "push" ] || [ "${{ inputs.todas }}" = "true" ]; then
+            python -m detector.main --todas
+          else
+            python -m detector.main
+          fi
+      - name: Guardar relatório
+        run: |
+          git config user.name "detector-musica-ia[bot]"
+          git config user.email "detector-musica-ia@users.noreply.github.com"
+          git add relatorios estado
+          git diff --cached --quiet || (git commit -m "Relatório do detector" && git push)
