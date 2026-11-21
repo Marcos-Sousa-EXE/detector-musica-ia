@@ -17,7 +17,7 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/5/0/a75cc96ae06784e6ab6e84875e43b08e.mp3?hdnea=exp=1795281796~acl=/api/1/1/a/7/5/0/a75cc96ae06784e6ab6e84875e43b08e.mp3*~data=user_id=0,application_id=42~hmac=2dc9e3b5f2096d51ea56c6d1d3855c7553c90e5d867c0e8085ff726ed6fd420c",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/5/0/a75cc96ae06784e6ab6e84875e43b08e.mp3?hdnea=exp=1795282599~acl=/api/1/1/a/7/5/0/a75cc96ae06784e6ab6e84875e43b08e.mp3*~data=user_id=0,application_id=42~hmac=5f1abd6044bd06fac002c3dd837d0c9b64ae30a03dd6f132bc27b63f1037061f",
   "fonte_previa": "Deezer",
   "aviso": "faixa",
   "audio": 58,
@@ -28,11 +28,11 @@
   "pistas": [
    [
     "➖",
-    "Publicada em 2025-12"
+    "Lançada em 2025-12"
    ],
    [
-    "➖",
-    "Sem créditos na descrição"
+    "🚩",
+    "Créditos e titular (℗) só com o nome do próprio artista (padrão comum em IA)"
    ],
    [
     "🚩",
@@ -79,7 +79,7 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/6/0/f7686cf466cc05d86c095727a2f45c04.mp3?hdnea=exp=1795281827~acl=/api/1/1/f/7/6/0/f7686cf466cc05d86c095727a2f45c04.mp3*~data=user_id=0,application_id=42~hmac=f799f44b87bacd5fd864cead865973af4773f91a67025115d43b53df57069c22",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/6/0/f7686cf466cc05d86c095727a2f45c04.mp3?hdnea=exp=1795282630~acl=/api/1/1/f/7/6/0/f7686cf466cc05d86c095727a2f45c04.mp3*~data=user_id=0,application_id=42~hmac=0d1d7a1aefe4d4ee062bfcd507366bb91111894127a0a2074af0646ff51aadf9",
   "fonte_previa": "Deezer",
   "aviso": false,
   "audio": 20,
@@ -90,11 +90,11 @@
   "pistas": [
    [
     "✅",
-    "Publicada em 2020, antes de existir música cantada feita por IA"
+    "Lançada em 2019, antes de existir música cantada feita por IA"
    ],
    [
-    "➖",
-    "Sem créditos na descrição"
+    "🚩",
+    "Créditos e titular (℗) só com o nome do próprio artista (padrão comum em IA)"
    ],
    [
     "✅",
@@ -141,7 +141,7 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/8/0/0281062f1527dc280eb2d0f0b7685a1c.mp3?hdnea=exp=1795281900~acl=/api/1/1/0/2/8/0/0281062f1527dc280eb2d0f0b7685a1c.mp3*~data=user_id=0,application_id=42~hmac=665f254a9efb4c7a1b32a5b7d1b875c5ba03925bc2e64d05dc3873f88b9b5b1c",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/8/0/0281062f1527dc280eb2d0f0b7685a1c.mp3?hdnea=exp=1795282701~acl=/api/1/1/0/2/8/0/0281062f1527dc280eb2d0f0b7685a1c.mp3*~data=user_id=0,application_id=42~hmac=5d9365ce9350b2677cba4f9fd908bc36021c148560d0bb082052ceb998bd44fb",
   "fonte_previa": "Deezer",
   "aviso": "faixa",
   "audio": 37,
@@ -152,11 +152,11 @@
   "pistas": [
    [
     "➖",
-    "Publicada em 2025-12"
+    "Lançada em 2025-12"
    ],
    [
-    "➖",
-    "Sem créditos na descrição"
+    "✅",
+    "Créditos/titular com nomes de outras pessoas: 667  DK"
    ],
    [
     "🚩",
@@ -203,22 +203,22 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/e/0/70e37d731a2f86e651799e3f4ab6277f.mp3?hdnea=exp=1795281923~acl=/api/1/1/7/0/e/0/70e37d731a2f86e651799e3f4ab6277f.mp3*~data=user_id=0,application_id=42~hmac=c36520cd230b37d844e15fea519b601d6c92bbbdca846b56e353d411004a6e0f",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/e/0/70e37d731a2f86e651799e3f4ab6277f.mp3?hdnea=exp=1795282734~acl=/api/1/1/7/0/e/0/70e37d731a2f86e651799e3f4ab6277f.mp3*~data=user_id=0,application_id=42~hmac=2573c3c7fc11904a86ffc77def7a2fe0536afe35897e445295af3a49d4bc8b83",
   "fonte_previa": "Deezer",
   "aviso": false,
   "audio": 7,
   "rastro": [],
   "musicbrainz": false,
-  "nota": 15,
+  "nota": 0,
   "veredito": "✅ Provável humana",
   "pistas": [
    [
     "➖",
-    "Publicada em 2023-03"
+    "Lançada em 2023-03"
    ],
    [
-    "➖",
-    "Sem créditos na descrição"
+    "✅",
+    "Créditos/titular com nomes de outras pessoas: Maycon Henrique"
    ],
    [
     "✅",
@@ -265,7 +265,7 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/f/0/1efbe96bbb51016b54a7e490fd134199.mp3?hdnea=exp=1795281999~acl=/api/1/1/1/e/f/0/1efbe96bbb51016b54a7e490fd134199.mp3*~data=user_id=0,application_id=42~hmac=bba503d3d43b474d731e11e7c0386e00d7d1914c6ac5e02751e2b1d89796bbd6",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/f/0/1efbe96bbb51016b54a7e490fd134199.mp3?hdnea=exp=1795282816~acl=/api/1/1/1/e/f/0/1efbe96bbb51016b54a7e490fd134199.mp3*~data=user_id=0,application_id=42~hmac=70aaf04a1c7501b27db832e903e794c62cac4948d1c862d6097e4b2ddd2308b2",
   "fonte_previa": "Deezer",
   "aviso": "faixa",
   "audio": 31,
@@ -276,11 +276,11 @@
   "pistas": [
    [
     "➖",
-    "Publicada em 2026-09"
+    "Lançada em 2026-09"
    ],
    [
-    "➖",
-    "Sem créditos na descrição"
+    "🚩",
+    "Créditos e titular (℗) só com o nome do próprio artista (padrão comum em IA)"
    ],
    [
     "🚩",
@@ -327,7 +327,7 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/7/0/d6708344a746c2906d605d1ce7c64d0a.mp3?hdnea=exp=1795282027~acl=/api/1/1/d/6/7/0/d6708344a746c2906d605d1ce7c64d0a.mp3*~data=user_id=0,application_id=42~hmac=87ee1ceb804f702f49c071d4bc5f4d9b22960ce231c1ccc0558bcdb0d0dfec5e",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/7/0/d6708344a746c2906d605d1ce7c64d0a.mp3?hdnea=exp=1795282842~acl=/api/1/1/d/6/7/0/d6708344a746c2906d605d1ce7c64d0a.mp3*~data=user_id=0,application_id=42~hmac=6fa9c3b53d8d3708df8f5e1808855ec0c2684e7844d701e70c9f6d3710735d0c",
   "fonte_previa": "Deezer",
   "aviso": "faixa",
   "audio": 64,
@@ -338,11 +338,11 @@
   "pistas": [
    [
     "➖",
-    "Publicada em 2026-05"
+    "Lançada em 2026-05"
    ],
    [
-    "➖",
-    "Sem créditos na descrição"
+    "🚩",
+    "Créditos e titular (℗) só com o nome do próprio artista (padrão comum em IA)"
    ],
    [
     "🚩",
@@ -389,7 +389,7 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/8/0/3884d301748f554f31be38ecf2e50747.mp3?hdnea=exp=1795282055~acl=/api/1/1/3/8/8/0/3884d301748f554f31be38ecf2e50747.mp3*~data=user_id=0,application_id=42~hmac=c7af31e8b1e7a4d27bba8e1a969918df833c4179b5713691b9aa17786821ff63",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/8/0/3884d301748f554f31be38ecf2e50747.mp3?hdnea=exp=1795282868~acl=/api/1/1/3/8/8/0/3884d301748f554f31be38ecf2e50747.mp3*~data=user_id=0,application_id=42~hmac=488e812a543fffc6e22dfe6a67c1f0bef6a8ecd8b5208cfb106bf7ee6b632d29",
   "fonte_previa": "Deezer",
   "aviso": false,
   "audio": 4,
@@ -400,11 +400,11 @@
   "pistas": [
    [
     "✅",
-    "Publicada em 2021, antes de existir música cantada feita por IA"
+    "Lançada em 2021, antes de existir música cantada feita por IA"
    ],
    [
-    "➖",
-    "Sem créditos na descrição"
+    "🚩",
+    "Créditos e titular (℗) só com o nome do próprio artista (padrão comum em IA)"
    ],
    [
     "✅",
@@ -451,22 +451,22 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/1/0/501cb51b91262c1b0edb6998a3425e36.mp3?hdnea=exp=1795282131~acl=/api/1/1/5/0/1/0/501cb51b91262c1b0edb6998a3425e36.mp3*~data=user_id=0,application_id=42~hmac=f6ada64873e77abc4936e1c1af7330d196d98602990c7e9f96289f028e92b63c",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/1/0/501cb51b91262c1b0edb6998a3425e36.mp3?hdnea=exp=1795282938~acl=/api/1/1/5/0/1/0/501cb51b91262c1b0edb6998a3425e36.mp3*~data=user_id=0,application_id=42~hmac=0b697f46b0567aa0ffa95cc116cc13188b97c59b8c3987a6ab428d145622aab8",
   "fonte_previa": "Deezer",
   "aviso": false,
   "audio": 35,
   "rastro": [],
   "musicbrainz": false,
-  "nota": 30,
+  "nota": 15,
   "veredito": "✅ Provável humana",
   "pistas": [
    [
     "➖",
-    "Publicada em 2023-12"
+    "Lançada em 2023-12"
    ],
    [
-    "➖",
-    "Sem créditos na descrição"
+    "✅",
+    "Créditos/titular com nomes de outras pessoas: Maycon Henrique"
    ],
    [
     "✅",
@@ -503,20 +503,20 @@
   "canal_topic": false,
   "rastro": [],
   "musicbrainz": false,
-  "nota": 50,
-  "veredito": "❓ Incerta",
+  "nota": 60,
+  "veredito": "🟡 Suspeita",
   "pistas": [
    [
     "➖",
-    "Publicada em 2025-09"
+    "Lançada em 2025-09"
    ],
    [
     "➖",
     "Sem créditos na descrição"
    ],
    [
-    "➖",
-    "Canal desde 2024, 252 vídeos, 72400 inscritos"
+    "🚩",
+    "Canal desde 2024 com 252 vídeos (~89 por ano) — ritmo de produção em série"
    ],
    [
     "➖",
@@ -559,7 +559,7 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/2/0/a8245465beef0c1d36cacf9c4fdb5a69.mp3?hdnea=exp=1795282222~acl=/api/1/1/a/8/2/0/a8245465beef0c1d36cacf9c4fdb5a69.mp3*~data=user_id=0,application_id=42~hmac=ba978170a633b5e904fd81f278b21ab7924862a63728aa5ee8229eca5b63a017",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/2/0/a8245465beef0c1d36cacf9c4fdb5a69.mp3?hdnea=exp=1795283027~acl=/api/1/1/a/8/2/0/a8245465beef0c1d36cacf9c4fdb5a69.mp3*~data=user_id=0,application_id=42~hmac=ffdd6735b4d45ca98b1b9f69b7a9aeeae99ce9ddfa6286bbc0cc56af432ad96d",
   "fonte_previa": "Deezer",
   "aviso": "faixa",
   "audio": 62,
@@ -570,7 +570,7 @@
   "pistas": [
    [
     "➖",
-    "Publicada em 2026-06"
+    "Lançada em 2026-06"
    ],
    [
     "➖",
@@ -625,7 +625,7 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/d/0/b2d80e3e11e2f336c6384fa052846fbf.mp3?hdnea=exp=1795282246~acl=/api/1/1/b/2/d/0/b2d80e3e11e2f336c6384fa052846fbf.mp3*~data=user_id=0,application_id=42~hmac=f1520d37fdd6529f0c7ac29b0cd1057d2657c362be41613f855e6fcd2d8c3f12",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/d/0/b2d80e3e11e2f336c6384fa052846fbf.mp3?hdnea=exp=1795283060~acl=/api/1/1/b/2/d/0/b2d80e3e11e2f336c6384fa052846fbf.mp3*~data=user_id=0,application_id=42~hmac=26ce2de1cfc9c315013faec3f22fd6238580323ca8ac2c8a2fb23d6ac2285d0a",
   "fonte_previa": "Deezer",
   "aviso": false,
   "audio": 88,
@@ -636,11 +636,11 @@
   "pistas": [
    [
     "✅",
-    "Publicada em 2016, antes de existir música cantada feita por IA"
+    "Lançada em 2016, antes de existir música cantada feita por IA"
    ],
    [
     "✅",
-    "Créditos com nomes de pessoas: Mauricio Ramanat"
+    "Créditos/titular com nomes de outras pessoas: Mauricio Ramanat"
    ],
    [
     "➖",
@@ -686,7 +686,7 @@
   "pistas": [
    [
     "✅",
-    "Publicada em 2018, antes de existir música cantada feita por IA"
+    "Lançada em 2018, antes de existir música cantada feita por IA"
    ],
    [
     "➖",
@@ -737,7 +737,7 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/f/0/abf159d15f2cbc80f58b080585c731f5.mp3?hdnea=exp=1795282346~acl=/api/1/1/a/b/f/0/abf159d15f2cbc80f58b080585c731f5.mp3*~data=user_id=0,application_id=42~hmac=46861800c71d37404800bfde6bfcd31cfb33bebd40773503a5cf3e75d67af860",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/f/0/abf159d15f2cbc80f58b080585c731f5.mp3?hdnea=exp=1795283161~acl=/api/1/1/a/b/f/0/abf159d15f2cbc80f58b080585c731f5.mp3*~data=user_id=0,application_id=42~hmac=1747e692526970fea915ce3e3e2e76d64682b1c9e9b96cbf1e388cff5bbffe49",
   "fonte_previa": "Deezer",
   "aviso": "faixa",
   "audio": 94,
@@ -748,11 +748,11 @@
   "pistas": [
    [
     "➖",
-    "Publicada em 2026-04"
+    "Lançada em 2026-04"
    ],
    [
-    "➖",
-    "Sem créditos na descrição"
+    "🚩",
+    "Créditos e titular (℗) só com o nome do próprio artista (padrão comum em IA)"
    ],
    [
     "🚩",
@@ -799,22 +799,22 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/7/0/7b7360be2a519fb09aec8e0552c295cb.mp3?hdnea=exp=1795282368~acl=/api/1/1/7/b/7/0/7b7360be2a519fb09aec8e0552c295cb.mp3*~data=user_id=0,application_id=42~hmac=feffcfef86c8bc32892a743654622b258a555f8d8eb7747ca7beb754b194b96c",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/7/0/7b7360be2a519fb09aec8e0552c295cb.mp3?hdnea=exp=1795283183~acl=/api/1/1/7/b/7/0/7b7360be2a519fb09aec8e0552c295cb.mp3*~data=user_id=0,application_id=42~hmac=7436681456303899672c333a2ee3a66bd83cab99a322cc43a56bb4a9c8876b95",
   "fonte_previa": "Deezer",
   "aviso": false,
   "audio": 5,
   "rastro": [],
   "musicbrainz": false,
-  "nota": 15,
+  "nota": 30,
   "veredito": "✅ Provável humana",
   "pistas": [
    [
     "➖",
-    "Publicada em 2023-10"
+    "Lançada em 2023-10"
    ],
    [
-    "➖",
-    "Sem créditos na descrição"
+    "🚩",
+    "Créditos e titular (℗) só com o nome do próprio artista (padrão comum em IA)"
    ],
    [
     "✅",
@@ -861,7 +861,7 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/4/0/7a4a7990fba0bef8d7ec0c89eaf2ce32.mp3?hdnea=exp=1795282440~acl=/api/1/1/7/a/4/0/7a4a7990fba0bef8d7ec0c89eaf2ce32.mp3*~data=user_id=0,application_id=42~hmac=9bac83afb5727476ee24f192246992f6fc1f79a94ce1be6ea5a2f15ce53233ec",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/4/0/7a4a7990fba0bef8d7ec0c89eaf2ce32.mp3?hdnea=exp=1795283254~acl=/api/1/1/7/a/4/0/7a4a7990fba0bef8d7ec0c89eaf2ce32.mp3*~data=user_id=0,application_id=42~hmac=0ce2244677c630c1a981a350e9605ba387a74d326c4c7d688c9fa47f8b275558",
   "fonte_previa": "Deezer",
   "aviso": "faixa",
   "audio": 31,
@@ -872,11 +872,11 @@
   "pistas": [
    [
     "➖",
-    "Publicada em 2026-01"
+    "Lançada em 2026-01"
    ],
    [
     "✅",
-    "Créditos com nomes de pessoas: Compositor Desconhecido, Evandro Tanaka"
+    "Créditos/titular com nomes de outras pessoas: Compositor Desconhecido, Evandro Tanaka"
    ],
    [
     "🚩",
