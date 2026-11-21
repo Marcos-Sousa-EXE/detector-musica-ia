@@ -13,6 +13,10 @@ def creditos(descricao, artista):
     """'outros' se há nomes de pessoas além do artista; 'so_artista' se tudo é o próprio artista; None se não há."""
     nomes = []
     for linha in (descricao or "").splitlines():
+        dono = re.match(r"\s*℗\s*(?:\d{4}\s*)?(.+)", linha)
+        if dono:
+            nomes.append(re.sub(r"\b(records?|music|musica|música|produç(?:ões|ao)|digital|ltda|label)\b", "", dono.group(1), flags=re.I).strip())
+            continue
         m = re.match(rf"\s*{CAMPOS_CREDITO}\s*[:\-]\s*(.+)", linha, re.I)
         if m:
             nomes += [n.strip() for n in re.split(r"[,/&]| e ", m.group(m.lastindex)) if n.strip()]
@@ -36,23 +40,28 @@ def pontuar(d):
     if yt is None:
         add(0, "Data, descrição e canal: pendente (falta a chave da API do YouTube)")
     elif yt:
-        if yt["publicado"] and yt["publicado"] < "2023-01-01":
-            add(-60, f"Publicada em {yt['publicado'][:4]}, antes de existir música cantada feita por IA")
+        lancada = re.search(r"Released on:\s*(\d{4}-\d{2}-\d{2})", yt["descricao"])
+        data = min(filter(None, [yt["publicado"], lancada.group(1) if lancada else None]))
+        if data < "2023-01-01":
+            add(-60, f"Lançada em {data[:4]}, antes de existir música cantada feita por IA")
         else:
-            add(0, f"Publicada em {yt['publicado'][:7]}")
+            add(0, f"Lançada em {data[:7]}")
         if re.search(MENCOES_IA, yt["descricao"], re.I):
             add(40, "A descrição do vídeo menciona IA/Suno/Udio")
         tipo, nomes = creditos(yt["descricao"], d["artista"])
         if tipo == "outros":
-            add(-15, "Créditos com nomes de pessoas: " + ", ".join(nomes))
+            add(-15, "Créditos/titular com nomes de outras pessoas: " + ", ".join(nomes))
         elif tipo == "so_artista":
-            add(15, "Créditos só com o nome do próprio artista (padrão comum em IA)")
+            add(15, "Créditos e titular (℗) só com o nome do próprio artista (padrão comum em IA)")
         else:
             add(0, "Sem créditos na descrição")
         if not d["canal_topic"] and yt.get("canal_criado"):
             idade = anos_desde(yt["canal_criado"])
+            por_ano = yt["videos_canal"] / max(idade or 0, 0.25)
             if idade is not None and idade < 2 and yt["videos_canal"] >= 30:
                 add(10, f"Canal criado em {yt['canal_criado'][:7]} e já com {yt['videos_canal']} vídeos")
+            elif idade is not None and idade < 4 and por_ano >= 60:
+                add(10, f"Canal desde {yt['canal_criado'][:4]} com {yt['videos_canal']} vídeos (~{por_ano:.0f} por ano) — ritmo de produção em série")
             else:
                 add(0, f"Canal desde {yt['canal_criado'][:4]}, {yt['videos_canal']} vídeos, {yt['inscritos']} inscritos")
 
