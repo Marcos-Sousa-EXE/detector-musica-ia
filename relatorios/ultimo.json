@@ -2,9 +2,9 @@
  {
   "video": "hnSB2eOcXc4",
   "titulo": "Vó Maria Conga - Café no Silêncio (Pretos Velhos)",
-  "canal": "Terra Luz",
+  "canal": "Terra Luz - Topic",
   "artista": "Terra Luz",
-  "canal_topic": false,
+  "canal_topic": true,
   "historico": {
    "fas": 257,
    "lancamentos": 63,
@@ -17,7 +17,7 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/5/0/a75cc96ae06784e6ab6e84875e43b08e.mp3?hdnea=exp=1795281111~acl=/api/1/1/a/7/5/0/a75cc96ae06784e6ab6e84875e43b08e.mp3*~data=user_id=0,application_id=42~hmac=e4b76f16e6277906826ea04eddc5e4ff9ee8ad796133a04a208c3ec0f9bcfba7",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/5/0/a75cc96ae06784e6ab6e84875e43b08e.mp3?hdnea=exp=1795281796~acl=/api/1/1/a/7/5/0/a75cc96ae06784e6ab6e84875e43b08e.mp3*~data=user_id=0,application_id=42~hmac=2dc9e3b5f2096d51ea56c6d1d3855c7553c90e5d867c0e8085ff726ed6fd420c",
   "fonte_previa": "Deezer",
   "aviso": "faixa",
   "audio": 58,
@@ -28,7 +28,11 @@
   "pistas": [
    [
     "➖",
-    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+    "Publicada em 2025-12"
+   ],
+   [
+    "➖",
+    "Sem créditos na descrição"
    ],
    [
     "🚩",
@@ -75,18 +79,22 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/6/0/f7686cf466cc05d86c095727a2f45c04.mp3?hdnea=exp=1795281135~acl=/api/1/1/f/7/6/0/f7686cf466cc05d86c095727a2f45c04.mp3*~data=user_id=0,application_id=42~hmac=6ae33b5c0bceb428035365143968e827e7a9381ec02b526d6ba3a40767389a9d",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/6/0/f7686cf466cc05d86c095727a2f45c04.mp3?hdnea=exp=1795281827~acl=/api/1/1/f/7/6/0/f7686cf466cc05d86c095727a2f45c04.mp3*~data=user_id=0,application_id=42~hmac=f799f44b87bacd5fd864cead865973af4773f91a67025115d43b53df57069c22",
   "fonte_previa": "Deezer",
   "aviso": false,
   "audio": 20,
   "rastro": [],
   "musicbrainz": true,
-  "nota": 25,
+  "nota": 0,
   "veredito": "✅ Provável humana",
   "pistas": [
    [
+    "✅",
+    "Publicada em 2020, antes de existir música cantada feita por IA"
+   ],
+   [
     "➖",
-    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+    "Sem créditos na descrição"
    ],
    [
     "✅",
@@ -105,7 +113,7 @@
     "Áudio (modelo SONICS, prévia da Deezer): 20% de chance de IA"
    ],
    [
-    "🚩",
+    "➖",
     "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
    ],
    [
@@ -133,7 +141,7 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/8/0/0281062f1527dc280eb2d0f0b7685a1c.mp3?hdnea=exp=1795281202~acl=/api/1/1/0/2/8/0/0281062f1527dc280eb2d0f0b7685a1c.mp3*~data=user_id=0,application_id=42~hmac=93c453f033aac9b8f7ebcffd83d6f62ddbcde573c1c4a261a41de1789fb41b03",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/8/0/0281062f1527dc280eb2d0f0b7685a1c.mp3?hdnea=exp=1795281900~acl=/api/1/1/0/2/8/0/0281062f1527dc280eb2d0f0b7685a1c.mp3*~data=user_id=0,application_id=42~hmac=665f254a9efb4c7a1b32a5b7d1b875c5ba03925bc2e64d05dc3873f88b9b5b1c",
   "fonte_previa": "Deezer",
   "aviso": "faixa",
   "audio": 37,
@@ -144,7 +152,11 @@
   "pistas": [
    [
     "➖",
-    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+    "Publicada em 2025-12"
+   ],
+   [
+    "➖",
+    "Sem créditos na descrição"
    ],
    [
     "🚩",
@@ -191,18 +203,22 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/e/0/70e37d731a2f86e651799e3f4ab6277f.mp3?hdnea=exp=1795281218~acl=/api/1/1/7/0/e/0/70e37d731a2f86e651799e3f4ab6277f.mp3*~data=user_id=0,application_id=42~hmac=df1066487f6d17ff3bd2bac35ead16cfa34b56aa4594544a4f6ba8e559923599",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/e/0/70e37d731a2f86e651799e3f4ab6277f.mp3?hdnea=exp=1795281923~acl=/api/1/1/7/0/e/0/70e37d731a2f86e651799e3f4ab6277f.mp3*~data=user_id=0,application_id=42~hmac=c36520cd230b37d844e15fea519b601d6c92bbbdca846b56e353d411004a6e0f",
   "fonte_previa": "Deezer",
   "aviso": false,
   "audio": 7,
   "rastro": [],
   "musicbrainz": false,
-  "nota": 20,
+  "nota": 15,
   "veredito": "✅ Provável humana",
   "pistas": [
    [
     "➖",
-    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+    "Publicada em 2023-03"
+   ],
+   [
+    "➖",
+    "Sem créditos na descrição"
    ],
    [
     "✅",
@@ -221,7 +237,7 @@
     "Áudio (modelo SONICS, prévia da Deezer): 7% de chance de IA"
    ],
    [
-    "🚩",
+    "➖",
     "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
    ],
    [
@@ -249,7 +265,7 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/f/0/1efbe96bbb51016b54a7e490fd134199.mp3?hdnea=exp=1795281289~acl=/api/1/1/1/e/f/0/1efbe96bbb51016b54a7e490fd134199.mp3*~data=user_id=0,application_id=42~hmac=401fab64e198cd6733aaf92d4a449ef5e5a62c899554b7240d40069e2e27ed4f",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/f/0/1efbe96bbb51016b54a7e490fd134199.mp3?hdnea=exp=1795281999~acl=/api/1/1/1/e/f/0/1efbe96bbb51016b54a7e490fd134199.mp3*~data=user_id=0,application_id=42~hmac=bba503d3d43b474d731e11e7c0386e00d7d1914c6ac5e02751e2b1d89796bbd6",
   "fonte_previa": "Deezer",
   "aviso": "faixa",
   "audio": 31,
@@ -260,7 +276,11 @@
   "pistas": [
    [
     "➖",
-    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+    "Publicada em 2026-09"
+   ],
+   [
+    "➖",
+    "Sem créditos na descrição"
    ],
    [
     "🚩",
@@ -307,17 +327,22 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/7/0/d6708344a746c2906d605d1ce7c64d0a.mp3?hdnea=exp=1795281306~acl=/api/1/1/d/6/7/0/d6708344a746c2906d605d1ce7c64d0a.mp3*~data=user_id=0,application_id=42~hmac=c4456d74d5fd3dcb3d39218ebf38848f4d578111e40cc7d8c02bfd95484977bb",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/7/0/d6708344a746c2906d605d1ce7c64d0a.mp3?hdnea=exp=1795282027~acl=/api/1/1/d/6/7/0/d6708344a746c2906d605d1ce7c64d0a.mp3*~data=user_id=0,application_id=42~hmac=87ee1ceb804f702f49c071d4bc5f4d9b22960ce231c1ccc0558bcdb0d0dfec5e",
   "fonte_previa": "Deezer",
   "aviso": "faixa",
   "audio": 64,
   "rastro": [],
+  "musicbrainz": false,
   "nota": 100,
   "veredito": "⚠️ Provável IA",
   "pistas": [
    [
     "➖",
-    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+    "Publicada em 2026-05"
+   ],
+   [
+    "➖",
+    "Sem créditos na descrição"
    ],
    [
     "🚩",
@@ -344,16 +369,14 @@
     "Sem cadastro no MusicBrainz"
    ]
   ],
-  "erros": [
-   "MusicBrainz: erro (HTTP Error 503: Service Temporarily Unavailable)"
-  ]
+  "erros": []
  },
  {
   "video": "7x6tgxzI_AM",
   "titulo": "Aos Meus Avós",
-  "canal": "Tainá Santos",
+  "canal": "Tainá Santos - Topic",
   "artista": "Tainá Santos",
-  "canal_topic": false,
+  "canal_topic": true,
   "historico": {
    "fas": 2852,
    "lancamentos": 8,
@@ -366,17 +389,22 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/8/0/3884d301748f554f31be38ecf2e50747.mp3?hdnea=exp=1795281331~acl=/api/1/1/3/8/8/0/3884d301748f554f31be38ecf2e50747.mp3*~data=user_id=0,application_id=42~hmac=6bd474c40daaef06a4c6b371bae5a6958e2123c7b3f11a535be44f3ec7329dce",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/8/0/3884d301748f554f31be38ecf2e50747.mp3?hdnea=exp=1795282055~acl=/api/1/1/3/8/8/0/3884d301748f554f31be38ecf2e50747.mp3*~data=user_id=0,application_id=42~hmac=c7af31e8b1e7a4d27bba8e1a969918df833c4179b5713691b9aa17786821ff63",
   "fonte_previa": "Deezer",
   "aviso": false,
   "audio": 4,
   "rastro": [],
-  "nota": 20,
+  "musicbrainz": false,
+  "nota": 0,
   "veredito": "✅ Provável humana",
   "pistas": [
    [
+    "✅",
+    "Publicada em 2021, antes de existir música cantada feita por IA"
+   ],
+   [
     "➖",
-    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+    "Sem créditos na descrição"
    ],
    [
     "✅",
@@ -395,7 +423,7 @@
     "Áudio (modelo SONICS, prévia da Deezer): 4% de chance de IA"
    ],
    [
-    "🚩",
+    "➖",
     "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
    ],
    [
@@ -403,9 +431,7 @@
     "Sem cadastro no MusicBrainz"
    ]
   ],
-  "erros": [
-   "MusicBrainz: erro (HTTP Error 503: Service Temporarily Unavailable)"
-  ]
+  "erros": []
  },
  {
   "video": "NY_ayvM3Hck",
@@ -425,18 +451,22 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/1/0/501cb51b91262c1b0edb6998a3425e36.mp3?hdnea=exp=1795281406~acl=/api/1/1/5/0/1/0/501cb51b91262c1b0edb6998a3425e36.mp3*~data=user_id=0,application_id=42~hmac=c93d4e855955c94984a760c8f5683fed54add637af186a6ad5edd7643d874b10",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/1/0/501cb51b91262c1b0edb6998a3425e36.mp3?hdnea=exp=1795282131~acl=/api/1/1/5/0/1/0/501cb51b91262c1b0edb6998a3425e36.mp3*~data=user_id=0,application_id=42~hmac=f6ada64873e77abc4936e1c1af7330d196d98602990c7e9f96289f028e92b63c",
   "fonte_previa": "Deezer",
   "aviso": false,
   "audio": 35,
   "rastro": [],
   "musicbrainz": false,
-  "nota": 40,
-  "veredito": "❓ Incerta",
+  "nota": 30,
+  "veredito": "✅ Provável humana",
   "pistas": [
    [
     "➖",
-    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+    "Publicada em 2023-12"
+   ],
+   [
+    "➖",
+    "Sem créditos na descrição"
    ],
    [
     "✅",
@@ -455,7 +485,7 @@
     "Áudio (modelo SONICS, prévia da Deezer): 35% de chance de IA"
    ],
    [
-    "🚩",
+    "➖",
     "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
    ],
    [
@@ -473,12 +503,20 @@
   "canal_topic": false,
   "rastro": [],
   "musicbrainz": false,
-  "nota": 55,
-  "veredito": "🟡 Suspeita",
+  "nota": 50,
+  "veredito": "❓ Incerta",
   "pistas": [
    [
     "➖",
-    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+    "Publicada em 2025-09"
+   ],
+   [
+    "➖",
+    "Sem créditos na descrição"
+   ],
+   [
+    "➖",
+    "Canal desde 2024, 252 vídeos, 72400 inscritos"
    ],
    [
     "➖",
@@ -493,7 +531,7 @@
     "Análise do áudio: sem prévia na Deezer nem na Apple"
    ],
    [
-    "🚩",
+    "➖",
     "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
    ],
    [
@@ -509,33 +547,46 @@
   "canal": "Vozes de Aruanda",
   "artista": "Vozes de Aruanda",
   "canal_topic": false,
-  "previa": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/00/99/920099bb-6a94-cd97-de22-f341824ef82c/mzaf_9286080381100540415.plus.aac.p.m4a",
-  "fonte_previa": "Apple",
   "historico": {
-   "fas": null,
-   "lancamentos": 33,
+   "fas": 866,
+   "lancamentos": 32,
    "estreia": "2025-08-23",
    "ult90": 5,
-   "albuns_recentes": []
+   "albuns_recentes": [
+    1149686931,
+    1141838291,
+    1109184442
+   ]
   },
-  "fonte_historico": "Apple",
-  "audio": 47,
+  "fonte_historico": "Deezer",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/2/0/a8245465beef0c1d36cacf9c4fdb5a69.mp3?hdnea=exp=1795282222~acl=/api/1/1/a/8/2/0/a8245465beef0c1d36cacf9c4fdb5a69.mp3*~data=user_id=0,application_id=42~hmac=ba978170a633b5e904fd81f278b21ab7924862a63728aa5ee8229eca5b63a017",
+  "fonte_previa": "Deezer",
+  "aviso": "faixa",
+  "audio": 62,
   "rastro": [],
   "musicbrainz": false,
-  "nota": 95,
+  "nota": 100,
   "veredito": "⚠️ Provável IA",
   "pistas": [
    [
     "➖",
-    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+    "Publicada em 2026-06"
    ],
    [
     "➖",
-    "Aviso de IA da Deezer: música não está na Deezer"
+    "Sem créditos na descrição"
    ],
    [
     "🚩",
-    "Artista estreou em 2025-08 (33 lançamentos, Apple) — artista muito novo"
+    "Canal criado em 2025-08 e já com 220 vídeos"
+   ],
+   [
+    "🚩",
+    "Deezer marca o álbum desta música como 'Conteúdo gerado por IA'"
+   ],
+   [
+    "🚩",
+    "Artista estreou em 2025-08 (32 lançamentos, 866 fãs, Deezer) — artista muito novo"
    ],
    [
     "➖",
@@ -543,7 +594,7 @@
    ],
    [
     "🚩",
-    "Áudio (modelo SONICS, prévia da Apple): 47% de chance de IA"
+    "Áudio (modelo SONICS, prévia da Deezer): 62% de chance de IA"
    ],
    [
     "🚩",
@@ -562,29 +613,57 @@
   "canal": "Takan Cavalo Branco",
   "artista": "Takan Cavalo Branco",
   "canal_topic": false,
+  "historico": {
+   "fas": 322,
+   "lancamentos": 16,
+   "estreia": "2016-05-25",
+   "ult90": 0,
+   "albuns_recentes": [
+    918445781,
+    780571621,
+    1101670362
+   ]
+  },
+  "fonte_historico": "Deezer",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/d/0/b2d80e3e11e2f336c6384fa052846fbf.mp3?hdnea=exp=1795282246~acl=/api/1/1/b/2/d/0/b2d80e3e11e2f336c6384fa052846fbf.mp3*~data=user_id=0,application_id=42~hmac=f1520d37fdd6529f0c7ac29b0cd1057d2657c362be41613f855e6fcd2d8c3f12",
+  "fonte_previa": "Deezer",
+  "aviso": false,
+  "audio": 88,
   "rastro": [],
   "musicbrainz": false,
-  "nota": 55,
-  "veredito": "🟡 Suspeita",
+  "nota": 0,
+  "veredito": "✅ Provável humana",
   "pistas": [
    [
-    "➖",
-    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+    "✅",
+    "Publicada em 2016, antes de existir música cantada feita por IA"
+   ],
+   [
+    "✅",
+    "Créditos com nomes de pessoas: Mauricio Ramanat"
    ],
    [
     "➖",
-    "Aviso de IA da Deezer: música não está na Deezer"
+    "Canal desde 2012, 41 vídeos, 6500 inscritos"
+   ],
+   [
+    "✅",
+    "Deezer não mostra aviso de IA"
+   ],
+   [
+    "✅",
+    "Artista estreou em 2016-05 (16 lançamentos, 322 fãs, Deezer) — na ativa há anos"
    ],
    [
     "➖",
-    "Histórico do artista: não encontrado na Deezer nem na Apple"
-   ],
-   [
-    "➖",
-    "Análise do áudio: sem prévia na Deezer nem na Apple"
+    "Ritmo de lançamentos normal (0 nos últimos 90 dias)"
    ],
    [
     "🚩",
+    "Áudio (modelo SONICS, prévia da Deezer): 88% de chance de IA"
+   ],
+   [
+    "➖",
     "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
    ],
    [
@@ -602,12 +681,20 @@
   "canal_topic": false,
   "rastro": [],
   "musicbrainz": false,
-  "nota": 55,
-  "veredito": "🟡 Suspeita",
+  "nota": 0,
+  "veredito": "✅ Provável humana",
   "pistas": [
    [
+    "✅",
+    "Publicada em 2018, antes de existir música cantada feita por IA"
+   ],
+   [
     "➖",
-    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+    "Sem créditos na descrição"
+   ],
+   [
+    "➖",
+    "Canal desde 2012, 206 vídeos, 58000 inscritos"
    ],
    [
     "➖",
@@ -622,7 +709,7 @@
     "Análise do áudio: sem prévia na Deezer nem na Apple"
    ],
    [
-    "🚩",
+    "➖",
     "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
    ],
    [
@@ -635,11 +722,11 @@
  {
   "video": "I1ESCFfWBGI",
   "titulo": "Invocação de Exu e Pombagira",
-  "canal": "A voz das Sombras",
+  "canal": "A voz das Sombras - Topic",
   "artista": "A voz das Sombras",
-  "canal_topic": false,
+  "canal_topic": true,
   "historico": {
-   "fas": 319,
+   "fas": 320,
    "lancamentos": 15,
    "estreia": "2026-01-26",
    "ult90": 4,
@@ -650,7 +737,7 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/f/0/abf159d15f2cbc80f58b080585c731f5.mp3?hdnea=exp=1795281531~acl=/api/1/1/a/b/f/0/abf159d15f2cbc80f58b080585c731f5.mp3*~data=user_id=0,application_id=42~hmac=febb03e9fab5d2457b33dafc7f8d9cce706865ccde8b34680d01f99a517ab659",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/f/0/abf159d15f2cbc80f58b080585c731f5.mp3?hdnea=exp=1795282346~acl=/api/1/1/a/b/f/0/abf159d15f2cbc80f58b080585c731f5.mp3*~data=user_id=0,application_id=42~hmac=46861800c71d37404800bfde6bfcd31cfb33bebd40773503a5cf3e75d67af860",
   "fonte_previa": "Deezer",
   "aviso": "faixa",
   "audio": 94,
@@ -661,7 +748,11 @@
   "pistas": [
    [
     "➖",
-    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+    "Publicada em 2026-04"
+   ],
+   [
+    "➖",
+    "Sem créditos na descrição"
    ],
    [
     "🚩",
@@ -669,7 +760,7 @@
    ],
    [
     "🚩",
-    "Artista estreou em 2026-01 (15 lançamentos, 319 fãs, Deezer) — artista muito novo"
+    "Artista estreou em 2026-01 (15 lançamentos, 320 fãs, Deezer) — artista muito novo"
    ],
    [
     "➖",
@@ -708,17 +799,22 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/7/0/7b7360be2a519fb09aec8e0552c295cb.mp3?hdnea=exp=1795281547~acl=/api/1/1/7/b/7/0/7b7360be2a519fb09aec8e0552c295cb.mp3*~data=user_id=0,application_id=42~hmac=ae68169b90bc5dbe37a8014ee531f96af1ab76d445b47de6b041b5b2bf087d08",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/7/0/7b7360be2a519fb09aec8e0552c295cb.mp3?hdnea=exp=1795282368~acl=/api/1/1/7/b/7/0/7b7360be2a519fb09aec8e0552c295cb.mp3*~data=user_id=0,application_id=42~hmac=feffcfef86c8bc32892a743654622b258a555f8d8eb7747ca7beb754b194b96c",
   "fonte_previa": "Deezer",
   "aviso": false,
   "audio": 5,
   "rastro": [],
-  "nota": 20,
+  "musicbrainz": false,
+  "nota": 15,
   "veredito": "✅ Provável humana",
   "pistas": [
    [
     "➖",
-    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+    "Publicada em 2023-10"
+   ],
+   [
+    "➖",
+    "Sem créditos na descrição"
    ],
    [
     "✅",
@@ -737,7 +833,7 @@
     "Áudio (modelo SONICS, prévia da Deezer): 5% de chance de IA"
    ],
    [
-    "🚩",
+    "➖",
     "Rastro na web: nada encontrado (letras, cifras, Wikipédia)"
    ],
    [
@@ -745,9 +841,7 @@
     "Sem cadastro no MusicBrainz"
    ]
   ],
-  "erros": [
-   "MusicBrainz: erro (HTTP Error 503: Service Temporarily Unavailable)"
-  ]
+  "erros": []
  },
  {
   "video": "eIxVmLP5C14",
@@ -767,7 +861,7 @@
    ]
   },
   "fonte_historico": "Deezer",
-  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/4/0/7a4a7990fba0bef8d7ec0c89eaf2ce32.mp3?hdnea=exp=1795281622~acl=/api/1/1/7/a/4/0/7a4a7990fba0bef8d7ec0c89eaf2ce32.mp3*~data=user_id=0,application_id=42~hmac=94b4ada9df2f691a8f3b36f334691ed1047404f2317fac1f501d77ba0f76d0f1",
+  "previa": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/4/0/7a4a7990fba0bef8d7ec0c89eaf2ce32.mp3?hdnea=exp=1795282440~acl=/api/1/1/7/a/4/0/7a4a7990fba0bef8d7ec0c89eaf2ce32.mp3*~data=user_id=0,application_id=42~hmac=9bac83afb5727476ee24f192246992f6fc1f79a94ce1be6ea5a2f15ce53233ec",
   "fonte_previa": "Deezer",
   "aviso": "faixa",
   "audio": 31,
@@ -778,7 +872,11 @@
   "pistas": [
    [
     "➖",
-    "Data, descrição e canal: pendente (falta a chave da API do YouTube)"
+    "Publicada em 2026-01"
+   ],
+   [
+    "✅",
+    "Créditos com nomes de pessoas: Compositor Desconhecido, Evandro Tanaka"
    ],
    [
     "🚩",
